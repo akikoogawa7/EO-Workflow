@@ -1,2 +1,5 @@
 config.py
 .DS_Store
+authentication.py
+__psycache__
+.ipynb_checkpoints
