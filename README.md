@@ -1,6 +1,6 @@
 # Earth Observation Exploration
 
-An exploration into Sentinel Hub and EO workflow services.
+An exploration into Sentinel Hub's API services.
 
 ### Examples
 #### True colour visualisation of Skomer Island in Pembrokeshire, Wales
