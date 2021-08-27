@@ -3,3 +3,6 @@ config.py
 authentication.py
 __psycache__
 .ipynb_checkpoints
+/land_cover_prediction
+/evalscripts
+
