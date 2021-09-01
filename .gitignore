@@ -1,4 +1,4 @@
-config.py
+/configs
 .DS_Store
 land_cover_prediction/
 evalscripts/
